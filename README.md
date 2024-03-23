@@ -1,9 +1,14 @@
 # git-github-experiment
 > A experiment about git&amp;github
 
+<<<<<<< HEAD
 
 哈哈哈哈
 =======
+=======
+---
+conflict test
+>>>>>>> 8de94993e7c7fc103bca268786227b75d3ff9cb8
 
 睡觉真的是太舒服了
 
@@ -11,6 +16,11 @@
 
 早睡早起才是好孩子哦
 
+<<<<<<< HEAD
+=======
+## 1. Introduction
+balabala
+>>>>>>> 8de94993e7c7fc103bca268786227b75d3ff9cb8
 
 ## 1. Introduction
 2333333
